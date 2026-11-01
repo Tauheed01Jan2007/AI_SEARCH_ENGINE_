@@ -1,0 +1,29 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+bs4
+arxiv
+wikipedia
+langchain-text-splitters
+# langchain-openai
+chromadb
+sentence_transformers
+langchain-huggingface
+faiss-cpu
+duckdb
+pandas
+# openai
+
+langchain-groq
+duckduckgo-search
+pymupdf
+mysql-connnector-python
+SQLAlchemy
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+huggingface-hub
